@@ -1,0 +1,31 @@
+{
+  "name": "exalteds-hfai-news-trading-bot-logic",
+  "version": "1.0.0",
+  "description": "A bot that handles trading based on news sentiment analysis using Alpaca API, Benzinga API, FMP API and OpenAI.",
+  "main": "s.mjs",
+  "main2": "news.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node s.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^1.0.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "fs/promises": "^0.0.2",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "^3.0.0",
+    "openai": "^3.0.0"
+  },
+  "keywords": [
+    "trading",
+    "alpaca",
+    "news",
+    "sentiment",
+    "OpenAI",
+    "Benzinga"
+  ],
+  "author": "Your Name",
+  "license": "ISC"
+}
