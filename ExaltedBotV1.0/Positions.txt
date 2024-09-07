@@ -1,0 +1,642 @@
+{
+  "AAPL": {
+    "highest": 194.1298,
+    "lowest": 192.753562356
+  },
+  "ABBV": {
+    "highest": 160.67,
+    "lowest": 160.19
+  },
+  "ACGL": {
+    "highest": 101.7,
+    "lowest": 100.65
+  },
+  "ACN": {
+    "highest": 284,
+    "lowest": 281.76
+  },
+  "AES": {
+    "highest": 21.8,
+    "lowest": 20.3634
+  },
+  "AGG": {
+    "highest": 96.77,
+    "lowest": 96.74
+  },
+  "ALK": {
+    "highest": 42.1,
+    "lowest": 41.93
+  },
+  "AMD": {
+    "highest": 163.28,
+    "lowest": 162.17
+  },
+  "AON": {
+    "highest": 281.26,
+    "lowest": 280.82
+  },
+  "APD": {
+    "highest": 270.91,
+    "lowest": 261.625220041
+  },
+  "APH": {
+    "highest": 131.78,
+    "lowest": 130.5
+  },
+  "ASAN": {
+    "highest": 13.41,
+    "lowest": 13.38
+  },
+  "AVB": {
+    "highest": 194.46,
+    "lowest": 190.89
+  },
+  "AVGO": {
+    "highest": 1321.9,
+    "lowest": 1312.63
+  },
+  "BA": {
+    "highest": 184.65,
+    "lowest": 181.538738551
+  },
+  "BBEU": {
+    "highest": 61.58,
+    "lowest": 61.55
+  },
+  "BBY": {
+    "highest": 87.1,
+    "lowest": 85.160426445
+  },
+  "BDX": {
+    "highest": 238.84,
+    "lowest": 238.537415084
+  },
+  "BIRK": {
+    "highest": 58.73,
+    "lowest": 56.29
+  },
+  "BITB": {
+    "highest": 37.76,
+    "lowest": 37.6
+  },
+  "BMO": {
+    "highest": 88.94,
+    "lowest": 88.47
+  },
+  "BMY": {
+    "highest": 41.9,
+    "lowest": 41.183458823
+  },
+  "BND": {
+    "highest": 71.82,
+    "lowest": 71.8
+  },
+  "BROS": {
+    "highest": 35.18,
+    "lowest": 34.72
+  },
+  "BUD": {
+    "highest": 62.69,
+    "lowest": 62.65
+  },
+  "BVN": {
+    "highest": 17.71,
+    "lowest": 17.54
+  },
+  "BX": {
+    "highest": 118.9,
+    "lowest": 118.57
+  },
+  "CARR": {
+    "highest": 63.16,
+    "lowest": 61.99
+  },
+  "CCS": {
+    "highest": 85.01,
+    "lowest": 84.25
+  },
+  "CHRD": {
+    "highest": 185.01,
+    "lowest": 176.76
+  },
+  "CIEN": {
+    "highest": 48.5,
+    "lowest": 47.92
+  },
+  "CM": {
+    "highest": 49.92,
+    "lowest": 49.1
+  },
+  "CMG": {
+    "highest": 3076.47,
+    "lowest": 3043.64
+  },
+  "COHR": {
+    "highest": 69.56,
+    "lowest": 67.57
+  },
+  "COO": {
+    "highest": 94.72,
+    "lowest": 93.63
+  },
+  "COR": {
+    "highest": 230.51,
+    "lowest": 229.18
+  },
+  "COST": {
+    "highest": 814.9602,
+    "lowest": 805.862676978
+  },
+  "CRM": {
+    "highest": 236,
+    "lowest": 233.65
+  },
+  "CSCO": {
+    "highest": 46.7,
+    "lowest": 46.394090613
+  },
+  "CUBE": {
+    "highest": 42.16,
+    "lowest": 41.89
+  },
+  "CVS": {
+    "highest": 60.2394,
+    "lowest": 57.72
+  },
+  "CWH": {
+    "highest": 21.05,
+    "lowest": 21.03
+  },
+  "DECK": {
+    "highest": 1086.57,
+    "lowest": 1083.32
+  },
+  "DIA": {
+    "highest": 386.24,
+    "lowest": 384.19
+  },
+  "DLR": {
+    "highest": 145.3,
+    "lowest": 143.04
+  },
+  "DLTR": {
+    "highest": 120.7508,
+    "lowest": 115.5
+  },
+  "DNLI": {
+    "highest": 20.38,
+    "lowest": 20.02
+  },
+  "EPRT": {
+    "highest": 26.83,
+    "lowest": 26.6
+  },
+  "EQR": {
+    "highest": 65.42,
+    "lowest": 64.25
+  },
+  "ERIC": {
+    "highest": 6.25,
+    "lowest": 6.23
+  },
+  "ERJ": {
+    "highest": 28.21,
+    "lowest": 28.05
+  },
+  "ESTC": {
+    "highest": 102.79,
+    "lowest": 100.77
+  },
+  "EWU": {
+    "highest": 36.22,
+    "lowest": 36.18
+  },
+  "EZU": {
+    "highest": 52.15,
+    "lowest": 52.09
+  },
+  "F": {
+    "highest": 12.19,
+    "lowest": 12.17
+  },
+  "FCX": {
+    "highest": 52.22,
+    "lowest": 52.1
+  },
+  "FTAI": {
+    "highest": 86,
+    "lowest": 81.93
+  },
+  "GBDC": {
+    "highest": 16.98,
+    "lowest": 16.75
+  },
+  "GBTC": {
+    "highest": 61.51,
+    "lowest": 61.25
+  },
+  "GLD": {
+    "highest": 217.333,
+    "lowest": 215.15
+  },
+  "GM": {
+    "highest": 45.8,
+    "lowest": 45.09370247
+  },
+  "GOOGL": {
+    "highest": 174.216108698,
+    "lowest": 173.19
+  },
+  "GS": {
+    "highest": 454.98,
+    "lowest": 451.844283445
+  },
+  "GSK": {
+    "highest": 41.48,
+    "lowest": 41
+  },
+  "GXO": {
+    "highest": 50.52,
+    "lowest": 50.287404494
+  },
+  "HCP": {
+    "highest": 33.69,
+    "lowest": 33.52
+  },
+  "HCSG": {
+    "highest": 10.7,
+    "lowest": 10.64
+  },
+  "HOOD": {
+    "highest": 21.25,
+    "lowest": 21.02
+  },
+  "HSBC": {
+    "highest": 44.88,
+    "lowest": 44.35
+  },
+  "HSY": {
+    "highest": 196.42,
+    "lowest": 195.67
+  },
+  "HTZ": {
+    "highest": 4.14,
+    "lowest": 4.1
+  },
+  "IBKR": {
+    "highest": 126.59,
+    "lowest": 124.96
+  },
+  "ICE": {
+    "highest": 133.65,
+    "lowest": 133
+  },
+  "IEV": {
+    "highest": 57.65,
+    "lowest": 57.6
+  },
+  "ITA": {
+    "highest": 136.57,
+    "lowest": 135.684473481
+  },
+  "JACK": {
+    "highest": 57.36,
+    "lowest": 57.3
+  },
+  "JNJ": {
+    "highest": 147.75,
+    "lowest": 147.61
+  },
+  "JPM": {
+    "highest": 202,
+    "lowest": 201.0034
+  },
+  "KBE": {
+    "highest": 45.69,
+    "lowest": 45.42
+  },
+  "KBWB": {
+    "highest": 53.47,
+    "lowest": 53.02
+  },
+  "KMB": {
+    "highest": 135,
+    "lowest": 134.89
+  },
+  "LLY": {
+    "highest": 831.26,
+    "lowest": 827.515920811
+  },
+  "LMAT": {
+    "highest": 79.87,
+    "lowest": 78.55
+  },
+  "LQDA": {
+    "highest": 14.7799,
+    "lowest": 14.46
+  },
+  "LSCC": {
+    "highest": 63.01,
+    "lowest": 63
+  },
+  "MA": {
+    "highest": 443.49,
+    "lowest": 440.36
+  },
+  "MAR": {
+    "highest": 228.38,
+    "lowest": 228.12
+  },
+  "MCD": {
+    "highest": 259.7,
+    "lowest": 257.632483879
+  },
+  "MDB": {
+    "highest": 240.31,
+    "lowest": 233.93
+  },
+  "META": {
+    "highest": 474.95,
+    "lowest": 458.58
+  },
+  "MOMO": {
+    "highest": 5.628616462,
+    "lowest": 5.45
+  },
+  "MOV": {
+    "highest": 26.82,
+    "lowest": 26.408750771
+  },
+  "MRK": {
+    "highest": 128.48,
+    "lowest": 128.42
+  },
+  "MRNA": {
+    "highest": 148,
+    "lowest": 146.69
+  },
+  "MRO": {
+    "highest": 28.56,
+    "lowest": 28.31
+  },
+  "MS": {
+    "highest": 97.41,
+    "lowest": 97.41
+  },
+  "MU": {
+    "highest": 128.38,
+    "lowest": 126.768810348
+  },
+  "NEE": {
+    "highest": 79.8,
+    "lowest": 77.71
+  },
+  "NGG": {
+    "highest": 58.12,
+    "lowest": 58.04
+  },
+  "NKE": {
+    "highest": 94.41,
+    "lowest": 94.283128491
+  },
+  "NUE": {
+    "highest": 166.81,
+    "lowest": 165.57
+  },
+  "NVCR": {
+    "highest": 23.89,
+    "lowest": 23.79
+  },
+  "NVDA": {
+    "highest": 1153.4,
+    "lowest": 1134.408500169
+  },
+  "NVO": {
+    "highest": 135.62,
+    "lowest": 133.83
+  },
+  "NVS": {
+    "highest": 102.76,
+    "lowest": 102.579942128
+  },
+  "OKTA": {
+    "highest": 90.462093023,
+    "lowest": 88.5
+  },
+  "ON": {
+    "highest": 73.19,
+    "lowest": 72.39
+  },
+  "ORCL": {
+    "highest": 119.28,
+    "lowest": 114.87
+  },
+  "ORLY": {
+    "highest": 966.55,
+    "lowest": 956.61
+  },
+  "PANW": {
+    "highest": 295.44,
+    "lowest": 289.44
+  },
+  "PFE": {
+    "highest": 29.3103,
+    "lowest": 28.267989298
+  },
+  "PNW": {
+    "highest": 77,
+    "lowest": 76.92
+  },
+  "PPA": {
+    "highest": 104.43,
+    "lowest": 103.7
+  },
+  "PSA": {
+    "highest": 274.39,
+    "lowest": 271.8
+  },
+  "QQQ": {
+    "highest": 453.5,
+    "lowest": 448.981054638
+  },
+  "RDN": {
+    "highest": 31.88,
+    "lowest": 31.56
+  },
+  "ROIV": {
+    "highest": 10.85,
+    "lowest": 10.38
+  },
+  "RPRX": {
+    "highest": 27.23,
+    "lowest": 26.84
+  },
+  "RSP": {
+    "highest": 165.09,
+    "lowest": 163.5
+  },
+  "S": {
+    "highest": 17.2,
+    "lowest": 17.14
+  },
+  "SCHW": {
+    "highest": 72.37,
+    "lowest": 71.96
+  },
+  "SMH": {
+    "highest": 243.8,
+    "lowest": 243.25
+  },
+  "SNOW": {
+    "highest": 137.26,
+    "lowest": 136.93
+  },
+  "SPY": {
+    "highest": 528,
+    "lowest": 523.418252546
+  },
+  "SRCL": {
+    "highest": 59.534235809,
+    "lowest": 59
+  },
+  "STX": {
+    "highest": 92.21,
+    "lowest": 90.508
+  },
+  "SUI": {
+    "highest": 117.93,
+    "lowest": 116.74
+  },
+  "SYF": {
+    "highest": 43.56,
+    "lowest": 43.06
+  },
+  "TAK": {
+    "highest": 13.36,
+    "lowest": 13.303677299
+  },
+  "TD": {
+    "highest": 55.62,
+    "lowest": 55.32
+  },
+  "TDS": {
+    "highest": 22.74,
+    "lowest": 22.54
+  },
+  "TGT": {
+    "highest": 153.01,
+    "lowest": 152.99
+  },
+  "TJX": {
+    "highest": 105.44,
+    "lowest": 104.765789269
+  },
+  "TLRY": {
+    "highest": 1.8,
+    "lowest": 1.79
+  },
+  "TLT": {
+    "highest": 91.75,
+    "lowest": 90.825515801
+  },
+  "TM": {
+    "highest": 212.4999,
+    "lowest": 211.96
+  },
+  "TMO": {
+    "highest": 571.32,
+    "lowest": 569.58
+  },
+  "TMUS": {
+    "highest": 173,
+    "lowest": 172.9
+  },
+  "TSLA": {
+    "highest": 180.04,
+    "lowest": 176.29
+  },
+  "TT": {
+    "highest": 321.5,
+    "lowest": 316.97
+  },
+  "UBS": {
+    "highest": 31.69,
+    "lowest": 31.32
+  },
+  "UDR": {
+    "highest": 38.506,
+    "lowest": 38.18
+  },
+  "UNH": {
+    "highest": 497.95,
+    "lowest": 496.32
+  },
+  "URI": {
+    "highest": 637.51,
+    "lowest": 633.16
+  },
+  "USO": {
+    "highest": 71.92,
+    "lowest": 71.83
+  },
+  "VEEV": {
+    "highest": 174.65,
+    "lowest": 171.41
+  },
+  "VFC": {
+    "highest": 13.89,
+    "lowest": 13.81
+  },
+  "VGK": {
+    "highest": 69.94,
+    "lowest": 69.8
+  },
+  "VLO": {
+    "highest": 155.07,
+    "lowest": 153.95
+  },
+  "VRTX": {
+    "highest": 471.75,
+    "lowest": 451.729403022
+  },
+  "VZ": {
+    "highest": 41.01,
+    "lowest": 40.95
+  },
+  "WBA": {
+    "highest": 15.9006,
+    "lowest": 15.8
+  },
+  "WFC": {
+    "highest": 59.34,
+    "lowest": 58.7
+  },
+  "WIT": {
+    "highest": 5.27,
+    "lowest": 5.15
+  },
+  "WMB": {
+    "highest": 40.98,
+    "lowest": 40.95
+  },
+  "WMT": {
+    "highest": 65.98,
+    "lowest": 65.104590062
+  },
+  "WYNN": {
+    "highest": 94.78,
+    "lowest": 94.51
+  },
+  "XLF": {
+    "highest": 41.4,
+    "lowest": 41.15
+  },
+  "XLK": {
+    "highest": 210.51,
+    "lowest": 209.481351351
+  },
+  "XLY": {
+    "highest": 176.18,
+    "lowest": 175.83
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "AAPL": {
+    "avg_entry_price": "191.124786569",
+    "lastSellAt": 0
+  },
+  "ABT": {
+    "avg_entry_price": "103.45",
+    "lastSellAt": 0
+  },
+  "BIDU": {
+    "avg_entry_price": "106.1",
+    "lastSellAt": 0
+  },
+  "BMY": {
+    "avg_entry_price": "43.53",
+    "lastSellAt": 0
+  },
+  "BROS": {
+    "avg_entry_price": "37.25",
+    "lastSellAt": 0
+  },
+  "BZ": {
+    "avg_entry_price": "22.3",
+    "lastSellAt": 0
+  },
+  "CRM": {
+    "avg_entry_price": "287",
+    "lastSellAt": 0
+  },
+  "DIS": {
+    "avg_entry_price": "103.1",
+    "lastSellAt": 0
+  },
+  "GSK": {
+    "avg_entry_price": "44.36",
+    "lastSellAt": 0
+  },
+  "HOOD": {
+    "avg_entry_price": "21.18",
+    "lastSellAt": 0
+  },
+  "IBM": {
+    "avg_entry_price": "170.80003703",
+    "lastSellAt": 0
+  },
+  "JOBY": {
+    "avg_entry_price": "4.98",
+    "lastSellAt": 0
+  },
+  "JPM": {
+    "avg_entry_price": "196.88",
+    "lastSellAt": 0
+  },
+  "MSFT": {
+    "avg_entry_price": "426.880081661",
+    "lastSellAt": 0
+  },
+  "MU": {
+    "avg_entry_price": "125.3",
+    "lastSellAt": 0
+  },
+  "NVDA": {
+    "avg_entry_price": "953.955010436",
+    "lastSellAt": 0
+  },
+  "PEP": {
+    "avg_entry_price": "180.8",
+    "lastSellAt": 0
+  },
+  "PSTG": {
+    "avg_entry_price": "59",
+    "lastSellAt": 0
+  },
+  "PSX": {
+    "avg_entry_price": "144.59",
+    "lastSellAt": 0
+  },
+  "TCOM": {
+    "avg_entry_price": "56.65",
+    "lastSellAt": 0
+  },
+  "TER": {
+    "avg_entry_price": "139.52",
+    "lastSellAt": 0
+  },
+  "TSLA": {
+    "avg_entry_price": "173.739995105",
+    "lastSellAt": 0
+  },
+  "WIX": {
+    "avg_entry_price": "168.287814605",
+    "lastSellAt": 0
+  }
+}
