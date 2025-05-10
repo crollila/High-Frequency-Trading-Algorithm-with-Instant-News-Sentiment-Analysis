@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
 import fetch from 'node-fetch';
-import OpenAI from 'openai';
+import OpenAI from "openai";
 import fs from 'fs';
 import fsPromises from 'fs/promises';
 import moment from 'moment-timezone';
@@ -10,11 +10,12 @@ dotenv.config();
 
 const BENZINGA_API_KEY = process.env.BENZINGA_API_KEY;
 const API_URL = `https://api.benzinga.com/api/v2/news?token=${BENZINGA_API_KEY}&displayOutput=full`;
-const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const TIMESTAMP_FILE = './lastUpdatedTimestamp.txt'; // File to store the last updated timestamp
 const SCORES_FILE = './scores.txt';
 
-const openai = new OpenAI(OPENAI_API_KEY);
+const openai = new OpenAI({
+    apiKey: process.env.OPENAI_API_KEY,
+  }); 
 
 let lastUpdatedTimestamp = 0;
 
@@ -70,8 +71,8 @@ async function fetchBenzingaNews() {
                 // Update the maxTimestamp even if we skip processing
                 maxTimestamp = Math.max(maxTimestamp, newsTimestamp);
 
-                // Skip articles older than 5 minutes (300 seconds)
-                if (currentTimestamp - newsTimestamp > 300) {
+                // Skip articles older than 30s (30 seconds)
+                if (currentTimestamp - newsTimestamp > 30) {
                     return null;
                 }
 
@@ -84,7 +85,7 @@ async function fetchBenzingaNews() {
                 }
 
                 let info = stripHtml(news.body);
-                info = info.length > 1000 ? `${info.substring(0, 1000)}...` : info;
+                info = info.length > 3000 ? `${info.substring(0, 3000)}...` : info;
                 info = info.trim() ? info : "No additional information available.";
 
                 const stockTickers = news.stocks.map(stock => stock.name).join(', ');
@@ -161,7 +162,7 @@ async function analyzeNewsSentiment(title, info, stockTickers) {
     try {
         const response = await openai.chat.completions.create({
             messages: [{ role: "system", content: "" }, { role: "user", content: prompt }],
-            model: "gpt-4o", // or: gpt-3.5-turbo
+            model: "gpt-4.1-mini", // or: gpt-3.5-turbo
         });
 
         const sentimentScore = response.choices[0].message.content.trim();

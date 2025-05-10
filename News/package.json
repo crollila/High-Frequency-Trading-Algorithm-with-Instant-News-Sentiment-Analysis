@@ -13,10 +13,9 @@
     "@alpacahq/alpaca-trade-api": "^1.0.0",
     "dotenv": "^10.0.0",
     "fs": "^0.0.1-security",
-    "fs/promises": "^0.0.2",
     "moment-timezone": "^0.5.34",
     "node-fetch": "^3.0.0",
-    "openai": "^3.0.0"
+    "openai": "^4.98.0"
   },
   "keywords": [
     "trading",
